@@ -107,6 +107,30 @@ ul {
 	margin-right: 0;
 	margin-left: 10px;
 }
+/* .blog-single-stat img.mr-10 {
+	float: left;
+} */
+
+.part-img.pl-30 {
+	padding-left: 0;
+	padding-right: 30px;
+}
+
+.about .justify-content-end {
+	justify-content: start !important;
+}
+
+span.lv-part-blog-calendar-date {
+	right: 20px;
+	left: auto;
+}
+
+/* .def-form {
+	text-align: right;
+} */
+form input {
+	text-align: right;
+}
 
 .footer-info-icon-wrap.mr-20 {
 	margin-right: 0;
@@ -135,6 +159,12 @@ ul {
 	margin-right: 0;
 	margin-left: 10px;
 }
+.footer-card-title::after {
+	left: auto;
+	background: linear-gradient(to right, transparent, #804BFF);
+	right: 0;
+}
+
 .branding-theme {
 	display: inline-block;
 }
