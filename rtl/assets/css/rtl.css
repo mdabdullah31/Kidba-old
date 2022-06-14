@@ -132,6 +132,12 @@ form input {
 	text-align: right;
 }
 
+.app-download-2 .justify-content-between {
+	justify-content: flex-end !important;
+}
+
+
+
 .footer-info-icon-wrap.mr-20 {
 	margin-right: 0;
 	margin-left: 20px;
